@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est la durée maximale de conservation des données ?",
+    "expected_answer": "La durée maximale de conservation des données est de 5 ans."
+  },
+  {
+    "id": 2,
+    "question": "Qui est le responsable du traitement des données ?",
+    "expected_answer": "Le délégué à la protection des données DPO."
+  }
+]
